@@ -1,0 +1,7 @@
+name: Armorstand_Controller
+author: Zambie__
+authors: [Zambie__]
+version: 2.1.2
+main: me.zambie.asc.Main
+description: An easy and intuitive way to manipulate Armor Stands!
+softdepends: [PlotSquared]
